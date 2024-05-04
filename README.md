@@ -19,7 +19,7 @@ El objetivo es desarrollar un sistema de registro de usuarios que permita recopi
 2. **Asegurar Integridad de los Datos**:
    - Se implementará validación para garantizar que los campos obligatorios estén completos antes de registrar un usuario.
    - El formato del email será validado para asegurar que sea una dirección de correo electrónico válida.
-   - La contraseña deberá tener al menos 8 caracteres para cumplir con los requisitos de seguridad.
+   - La contraseña deberá tener al menos 8 caracteres, al menos una letra mayúscula, una minuscula y al menos un caracter especial para cumplir con los requisitos de seguridad.
    - Se verificará que se seleccione una provincia y un municipio de las listas desplegables, de las siguientes url https://intranetjacaranda.es/Ejercicios/cargaProvinciasXML.php y https://intranetjacaranda.es/Ejercicios/cargaMunicipiosXML.php.
 
 

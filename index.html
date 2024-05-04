@@ -23,13 +23,18 @@
             <small id="smallEmail"></small>
           </div>
           <div class="mb-3">
+            <label for="nombre" class="form-label">Nombre:</label>
+            <input type="text" class="form-control" id="nombre" name="nombre">
+            <small id="smallNombre"></small>
+          </div>
+          <div class="mb-3">
             <label for="contrasena" class="form-label">Contraseña:</label>
             <input type="password" class="form-control" id="contrasena" name="contrasena">
             <small id="smallContrasena"></small>
           </div>
           <div class="mb-3">
             <label for="provincia" class="form-label">Provincia:</label>
-            <select class="form-control" id="provincia" name="provincia">
+            <select class="form-control" id="provincia" name="provincia" required>
             </select>
           </div>
           <div class="mb-3">
@@ -47,7 +52,7 @@
             <textarea class="form-control" id="descripcion" name="descripcion" rows="3"></textarea>
             <small id="smallDescripcion"></small>
           </div>
-          <button type="submit" class="btn btn-primary">Enviar</button>
+          <button type="submit" class="btn btn-primary" id="submit" >Enviar</button>
         </form>
       </div>
     </div>

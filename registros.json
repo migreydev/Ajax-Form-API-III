@@ -1,49 +1,68 @@
 {
-    "usuarios": [
-      {
-        "id": 1,
-        "email": "usuario1@example.com",
-        "nombre": "Juan Pérez"
-      },
-      {
-        "id": 2,
-        "email": "usuario2@example.com",
-        "nombre": "María García"
-      },
-      {
-        "id": 3,
-        "email": "usuario3@example.com",
-        "nombre": "Pedro López"
-      }
-    ],
-    "registros": [
-      {
-        "id": 1,
-        "email": "usuario1@example.com",
-        "nombre": "Juan Pérez",
-        "provincia_id": "28", 
-        "municipio_id": "0745", 
-        "telefono": "123456789",
-        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      },
-      {
-        "id": 2,
-        "email": "usuario2@example.com",
-        "nombre": "María García",
-        "provincia_id": "08", 
-        "municipio_id": "1878", 
-        "telefono": "987654321",
-        "descripcion": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-      },
-      {
-        "id": 3,
-        "email": "usuario3@example.com",
-        "nombre": "Pedro López",
-        "provincia_id": "46", 
-        "municipio_id": "2508", 
-        "telefono": "555666777",
-        "descripcion": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-      }
-    ]
-  }
-  
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "usuario1@example.com",
+      "nombre": "Juan Pérez",
+      "password": "P@ssw0rd1"
+    },
+    {
+      "id": 2,
+      "email": "usuario2@example.com",
+      "nombre": "María García",
+      "password": "Passw0rd2!"
+    },
+    {
+      "id": 3,
+      "email": "usuario3@example.com",
+      "nombre": "Pedro López",
+      "password": "L0pez@2024"
+    }
+  ],
+  "registros": [
+    {
+      "id": 1,
+      "fecha": "2024-04-01",
+      "email": "usuario1@example.com",
+      "nombre": "Juan Pérez",
+      "provincia_id": "28",
+      "municipio_id": "0745",
+      "telefono": "123456789",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "password": "P@ssw0rd1"
+    },
+    {
+      "id": 2,
+      "fecha": "2024-04-01",
+      "email": "usuario2@example.com",
+      "nombre": "María García",
+      "provincia_id": "08",
+      "municipio_id": "1878",
+      "telefono": "987654321",
+      "descripcion": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "password": "Passw0rd2!"
+    },
+    {
+      "id": 3,
+      "fecha": "2024-04-01",
+      "email": "usuario3@example.com",
+      "nombre": "Pedro López",
+      "provincia_id": "46",
+      "municipio_id": "2508",
+      "telefono": "555666777",
+      "descripcion": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "password": "L0pez@2024"
+    },
+    {
+      "id": "c638",
+      "fecha": "2024-05-04",
+      "email": "miguel@gmail.com",
+      "nombre": "Miguel Ángel",
+      "provincia_id": "41",
+      "municipio_id": "0188",
+      "telefono": "123456789",
+      "descripcion": "sdfdffdfdfdfgfdgsdfdsfbjbaegbibjkbceibfuaefbejasdueabdjkaedbjkawede",
+      "password": "P@ssword25!"
+    }
+  ]
+}
