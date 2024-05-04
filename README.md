@@ -20,7 +20,8 @@ El objetivo es desarrollar un sistema de registro de usuarios que permita recopi
    - Se implementará validación para garantizar que los campos obligatorios estén completos antes de registrar un usuario.
    - El formato del email será validado para asegurar que sea una dirección de correo electrónico válida.
    - La contraseña deberá tener al menos 8 caracteres para cumplir con los requisitos de seguridad.
-   - Se verificará que se seleccione una provincia y un municipio de las listas desplegables.
+   - Se verificará que se seleccione una provincia y un municipio de las listas desplegables, de las siguientes url https://intranetjacaranda.es/Ejercicios/cargaProvinciasXML.php y https://intranetjacaranda.es/Ejercicios/cargaMunicipiosXML.php.
+
 
 3. **Almacenamiento de Datos Seguro**:
    - Los datos ingresados por los usuarios se almacenarán de forma segura en la base de datos a través de la API.
