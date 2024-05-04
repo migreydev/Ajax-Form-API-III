@@ -1,0 +1,49 @@
+{
+    "usuarios": [
+      {
+        "id": 1,
+        "email": "usuario1@example.com",
+        "nombre": "Juan Pérez"
+      },
+      {
+        "id": 2,
+        "email": "usuario2@example.com",
+        "nombre": "María García"
+      },
+      {
+        "id": 3,
+        "email": "usuario3@example.com",
+        "nombre": "Pedro López"
+      }
+    ],
+    "registros": [
+      {
+        "id": 1,
+        "email": "usuario1@example.com",
+        "nombre": "Juan Pérez",
+        "provincia_id": "28", 
+        "municipio_id": "0745", 
+        "telefono": "123456789",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "id": 2,
+        "email": "usuario2@example.com",
+        "nombre": "María García",
+        "provincia_id": "08", 
+        "municipio_id": "1878", 
+        "telefono": "987654321",
+        "descripcion": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      {
+        "id": 3,
+        "email": "usuario3@example.com",
+        "nombre": "Pedro López",
+        "provincia_id": "46", 
+        "municipio_id": "2508", 
+        "telefono": "555666777",
+        "descripcion": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      }
+    ]
+  }
+  
