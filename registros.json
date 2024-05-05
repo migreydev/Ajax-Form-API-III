@@ -1,19 +1,19 @@
 {
   "usuarios": [
     {
-      "id": 1,
+      "id": "1",
       "email": "usuario1@example.com",
       "nombre": "Juan Pérez",
       "password": "P@ssw0rd1"
     },
     {
-      "id": 2,
+      "id": "2",
       "email": "usuario2@example.com",
       "nombre": "María García",
       "password": "Passw0rd2!"
     },
     {
-      "id": 3,
+      "id": "3",
       "email": "usuario3@example.com",
       "nombre": "Pedro López",
       "password": "L0pez@2024"
@@ -21,7 +21,7 @@
   ],
   "registros": [
     {
-      "id": 1,
+      "id": "1",
       "fecha": "2024-04-01",
       "email": "usuario1@example.com",
       "nombre": "Juan Pérez",
@@ -32,7 +32,7 @@
       "password": "P@ssw0rd1"
     },
     {
-      "id": 2,
+      "id": "2",
       "fecha": "2024-04-01",
       "email": "usuario2@example.com",
       "nombre": "María García",
@@ -43,7 +43,7 @@
       "password": "Passw0rd2!"
     },
     {
-      "id": 3,
+      "id": "3",
       "fecha": "2024-04-01",
       "email": "usuario3@example.com",
       "nombre": "Pedro López",
@@ -54,15 +54,15 @@
       "password": "L0pez@2024"
     },
     {
-      "id": "c638",
       "fecha": "2024-05-04",
       "email": "miguel@gmail.com",
       "nombre": "Miguel Ángel",
       "provincia_id": "41",
       "municipio_id": "0188",
       "telefono": "123456789",
-      "descripcion": "sdfdffdfdfdfgfdgsdfdsfbjbaegbibjkbceibfuaefbejasdueabdjkaedbjkawede",
-      "password": "P@ssword25!"
+      "descripcion": "sdfdffdfdfdfgfdgsdfdsfbjbaegbibjkbceibfuaefbejasdueabdjkaedbjkawede editado por primera vez",
+      "password": "P@ssword25!",
+      "id": "c638"
     }
   ]
 }
